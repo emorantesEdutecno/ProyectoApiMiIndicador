@@ -1,0 +1,31 @@
+/* abstracts */
+/* vendors */
+/* base */
+.elbody {
+  background-color: #DEBF50;
+}
+
+/* layout */
+.contenedorCard__parrafo {
+  font-size: 22px;
+  color: #694CF5;
+}
+
+.contenedorCard__titulo {
+  color: #7EF57D;
+  font-size: 45px;
+}
+
+/* components */
+.contenedorCard__tarjeta {
+  background-color: #FAA05A;
+}
+
+.contenedorCard__boton {
+  background-color: #694CF5;
+}
+
+/* pages */
+/* themes */
+
+/*# sourceMappingURL=main.css.map */
